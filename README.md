@@ -1,13 +1,12 @@
 # Nasa-project
 ## How to run: 
 ```hs
--- Client:
-npm install
-npm start
+Truy cập vào thư mục Nasa_19110462
+cd .\Nasa_19110462\
 
--- Server:
-npm install
-npm start
+Thực hiện lệnh
+npm i
+npm run deploy
 ```
 
 #### 19110462
